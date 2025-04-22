@@ -11,7 +11,7 @@ class magicBall extends StatelessWidget {
         appBar: AppBar(
           backgroundColor: Colors.indigo,
           title: Text(
-            'Ask Me Anything ',
+            'Ask Me Anything....... ',
             style: TextStyle(color: Colors.white),
           ),
         ),
